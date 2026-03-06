@@ -45,7 +45,7 @@ Setup Instructions
 Clone the repository:
 
 bash
-git clone https://github.com/YourUsername/ColorGame.git
+git clone https://github.com/Treusu/ColorGame.git
 Open the project in Android Studio.
 
 Add audio files (letitride.raw and letsgogambling.raw) to the res/raw folder.

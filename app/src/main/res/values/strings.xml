@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Perya Color Game</string>
+    <string name="balance_format">Balance: ₱%.2f</string>
+    <string name="bet_format">Current Bet: ₱%.2f</string>
+    <string name="roll">ROLL</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="yellow">Yellow</string>
+    <string name="white">White</string>
+    <string name="violet">Violet</string>
+    <string name="history_title">History Log</string>
+</resources>
